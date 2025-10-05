@@ -61,7 +61,7 @@
 
 ###
 <ul>
-  <li>I'm passionate about tech and software development, currently studying Computer Science at the University of Bucharest (1st year).</li>
+  <li>I'm passionate about tech and software development, currently studying Computer Science at the University of Bucharest (2nd year).</li>
   <li>I'm currently learning about Rust & Tauri and building fast and safe software.</li>
   <li>I’m passionate about designing and implementing algorithmic solutions to real-world problems and developing high-quality software using cutting-edge technologies.</li>
 </ul>
