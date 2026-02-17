@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Florin<br>I'm an aspiring developer, from Bucharest, Romania 🇷🇴</h2>
+<h2 align="left">Hi 👋! My name is Florin<br>I'm a Software Engineer from Bucharest, Romania 🇷🇴</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" width="30" alt="django logo"  />
@@ -53,8 +53,8 @@
 ###
 <ul>
   <li>I'm passionate about tech and software development, currently studying Computer Science at the University of Bucharest (2nd year).</li>
-  <li>I'm currently learning about Rust & Tauri and building fast and safe software.</li>
-  <li>I’m passionate about designing and implementing algorithmic solutions to real-world problems and developing high-quality software using cutting-edge technologies.</li>
+  <li>I'm currently learning about AI & ML for anomaly detection.</li>
+  <li>I spend my time designing and implementing algorithmic solutions to real-world problems. "Good taste" in code is my signature.</li>
 </ul>
 
 ###
